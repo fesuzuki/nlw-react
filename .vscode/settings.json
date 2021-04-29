@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "Archivo",
+        "Ionicons",
+        "conexoes",
+        "materias",
+        "proffys",
+        "whatsapp"
+    ],
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:NLW}/server/src/database/database.sqlite",
+            "driver": "SQLite",
+            "name": "NLW",
+            "previewLimit": 50
+        },
+        {
+            "database": "${workspaceFolder:NLW}/server/src/database/database.sqlite",
+            "driver": "SQLite",
+            "name": "Proff",
+            "previewLimit": 50
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
